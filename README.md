@@ -3,7 +3,7 @@ Projeto acadêmico da RocketSeat
 
 # Desafio #
 
-Criar na vegação entre arquivos: home page, contact e images, onde o direcionamento aconteça ao clicar nos links. 
+Criar na navegação entre arquivos: home page, contact e images, onde o direcionamento aconteça ao clicar nos links. 
 
 ## Crie um projeto contendo ##
 - 2 arquivos no diretório principal (index.html, contact.html e images.html)
@@ -13,9 +13,10 @@ Criar na vegação entre arquivos: home page, contact e images, onde o direciona
 - Colocar as duas imagens que você tem na pasta;
 
 ### Página contact.html
-- Colocar suas informações de contato: email e telefone;
-- Cada informação deverá estar dentro de um link que quando clicado, irá abrir a respectiva informação de contato (email ou telefone)
+- Colocar suas informações de contato: e-mail e telefone;
+- Cada informação deverá estar em um link que quando clicado, irá abrir a respectiva informação de contato (e-mail ou telefone)
 
-Para visualizar a imprementação bastar abaixar o plugin.
+Para visualizar a implementação bastar abaixar o plugin.
 <br>
  > HTML PREVIEW george-alisson.html-preview-vscode) 
+
